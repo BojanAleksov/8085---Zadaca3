@@ -3,7 +3,7 @@
 семафори, да се предложи минимално хардверско решение
 (како име на компонента). 
 
-![Screenshot (1)] (https://github.com/BojanAleksov/8085---Zadaca3/blob/main/Slika%201%20(Zadaca3).png)
+![Screenshot (1)](https://github.com/BojanAleksov/8085---Zadaca3/blob/main/Slika%201%20(Zadaca3).png)
  
 **Developed by:**
 
